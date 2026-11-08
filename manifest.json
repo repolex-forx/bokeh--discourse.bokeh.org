@@ -1,0 +1,37 @@
+{
+  "manifest_version": "1.0",
+  "org": "bokeh",
+  "repo": "discourse.bokeh.org",
+  "versions": [
+    {
+      "commit": "c88b5cf476053bb8086fdbff3afb8003d2c5a838",
+      "parsed_at": "2026-11-08T03:38:04.152310+00:00",
+      "filetree": "filetree/c88b5cf476053bb8086fdbff3afb8003d2c5a838.nq.gz",
+      "blobs": [
+        "blob/0f4c9da10e3aa2c67ec3c014593e9b379078c680.nq.gz",
+        "blob/3127db3c24f5cb053ebb3f3f9b5f82f30f2efc15.nq.gz",
+        "blob/39cb91f7a0da4625bd68eeca5d972a5859d098fe.nq.gz",
+        "blob/594d1df33e81c5af3edb21e28e33d083a347f705.nq.gz",
+        "blob/82776be37777092ea5c59e1c2fb2679c269b97a3.nq.gz",
+        "blob/a870607515386ab0edef98ab9b0d45f7c52e284c.nq.gz",
+        "blob/ed79226178f59aff1f7dd6f4cd094e01ede55349.nq.gz",
+        "blob/9cb5c84e45c53709946f8e9a29bca2a6f36f9380.nq.gz",
+        "blob/7ffaba2296f500bd3e16604d05f3214aec2c4f4d.nq.gz",
+        "blob/4146e67cf1cb1bd38a4dbdfa81d3d4fdb1107c23.nq.gz",
+        "blob/c384bea2bff883e9f29dc504a9a4bdbe09f1c099.nq.gz",
+        "blob/30ff2999ccf1498152ebac867a5b9c1b35c7da81.nq.gz",
+        "blob/6d92148b550efd40d63c4f42810105b1d5df95ad.nq.gz",
+        "blob/31426abf2c2c1b909f5479ffd3a1380d3824e587.nq.gz",
+        "blob/0c5f86896e07a6ad4e20f241fbe7a6b4e37f0672.nq.gz",
+        "blob/36cf73753a0e1a49888d4250150727fec9286a57.nq.gz",
+        "blob/7d81e9cb1bfb804eb8bc83ada7bf0784c6a09004.nq.gz",
+        "blob/345319e926ebdeb97c07e58038e9ab5fed5fef63.nq.gz",
+        "blob/f3beffacea58bc0e219ed3b03f468382429eb031.nq.gz",
+        "blob/4a0c04d75c38e9e7500722ac531cd3bb0971a1bb.nq.gz"
+      ]
+    }
+  ],
+  "commit": "commit/commit.nq.gz",
+  "branch": "branch/branch.nq.gz",
+  "tag": "tag/tag.nq.gz"
+}
